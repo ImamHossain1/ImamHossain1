@@ -16,7 +16,6 @@ Before moving to Germany, I worked in sales and customer service for internation
 |------|-------------------|
 | **Data analysis & modelling** | Excel: SUMIFS, COUNTIFS, SUMPRODUCT, VLOOKUP, IF logic, data validation, scenario and planning models · Power BI (beginner) |
 | **Databases & programming** | Microsoft Access: relational design, keys, queries, forms, reports · SQL · Python |
-| **Statistics** |
 | **Business software** | SAP · PowerPoint with think-cell · Microsoft 365 (Outlook, Teams, SharePoint) · Slack |
 | **Languages** | Bengali (native) · English (fluent) · German (A2, improving) |
 

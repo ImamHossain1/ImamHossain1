@@ -26,7 +26,7 @@ Before moving to Germany, I worked in sales and customer service for internation
 | [**Excel Business Modelling**](https://github.com/ImamHossain1/excel-business-modelling-coursework) | Sales analysis across three stores, a 3-year profit plan and a decision model | Store margin per m² ranges from 362 € to 605 €; the EV maker turns profitable in year 3 |
 
 ### Currently studying
-Business Analytics · Enterprise Resource Planning (SAP) · Entrepreneurship and Innovation
+Business Analytics · Enterprise Resource Planning (SAP) · Corporate Finance · Entrepreneurship and Innovation
 
 ### Contact
 [LinkedIn](https://www.linkedin.com/in/imxm/) · [mdimamhossain.info.bd@gmail.com](mailto:mdimamhossain.info.bd@gmail.com) · CV available on request
